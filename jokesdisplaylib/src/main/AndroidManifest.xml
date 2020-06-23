@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jokesdisplaylib">
+
+    <application>
+        <activity android:name=".JokesActivityFragment"></activity>
+        <activity android:name=".JokesActivity" />
+    </application>
+
+</manifest>
